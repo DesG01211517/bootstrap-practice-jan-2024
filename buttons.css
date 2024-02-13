@@ -1,5 +1,27 @@
-#LetsGo {
-    padding: 10px;
+#Button1 {
+    padding: 10px 25px;
     background-color: green;
+    size: 25px;
     
+}
+#Button2 {
+    padding: 10px 25px;
+    background-color: greenyellow;
+    size: 25px;
+}
+#Button3 {
+    padding: 10px 25px;
+    background-color: green;
+    size: 25px;
+
+}
+#Button4 {
+    padding: 10px 25px;
+    background-color: greenyellow;
+    size: 25px;
+}
+#Button5 {
+    padding: 10px 25px;
+    background-color: green;
+    size: 25px;
 }
