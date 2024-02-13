@@ -1,27 +1,32 @@
 #Button1 {
-    padding: 10px 25px;
+    padding: 25px;
     background-color: green;
-    size: 25px;
+    margin: 4px 2px;
+    
     
 }
 #Button2 {
-    padding: 10px 25px;
+    padding: 25px;
     background-color: greenyellow;
-    size: 25px;
+    margin: 4px 2px;
+
 }
 #Button3 {
-    padding: 10px 25px;
+    padding: 25px;
     background-color: green;
-    size: 25px;
+    margin: 4px 2px;
+    
 
 }
 #Button4 {
-    padding: 10px 25px;
+    padding: 25px;
     background-color: greenyellow;
-    size: 25px;
+    margin: 4px 2px;
+    
 }
 #Button5 {
-    padding: 10px 25px;
+    padding: 25px;
     background-color: green;
-    size: 25px;
+    margin: 4px 2px;
+    
 }

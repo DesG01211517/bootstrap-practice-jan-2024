@@ -8,9 +8,7 @@ This is a website about...
 
 It contains one page:
 
-* buttons.html - contains 5 buttons that respond to click events
-
-
+- buttons.html - contains 5 buttons that respond to click events
 
 ## Built With
 
@@ -19,17 +17,15 @@ It contains one page:
 - Bootstrap
 - JavaScript
 
-
 ## Roadmap
 
 - [x] buttons.html - the HTML page to work on buttons that respond with JavaScript to clicks
-- [ ] buttons.js - contains the actual code to make the buttons live
-- [ ] buttons.css - contains classes to style the buttons
-
+- [x] buttons.js - contains the actual code to make the buttons live
+- [x] buttons.css - contains classes to style the buttons
 
 ## Contact
 
-Author: 
+Author: Desmon Garrison EMail= desmongarrison2@gmail.com
 
 ## Acknowledgements
 
