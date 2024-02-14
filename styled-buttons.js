@@ -1,4 +1,6 @@
-Button4.onclick = function() {
+
+
+Button10.onclick = function() {
     alert("Buttons Are Fun!!");
 }
 Button6.onclick = function () {

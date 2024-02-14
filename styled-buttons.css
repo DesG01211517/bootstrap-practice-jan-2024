@@ -4,18 +4,19 @@
     color: white;
     font-size: 20px; */
 
-}#body {
+#body {
     background-color: aqua;
 }
+
 .buttonmagic {
-    margin: 15px;
-    padding: 15;
-    color:cornflowerblue;
-    font-size: medium;
-    
-    
-
-
-
-
+    background-color: slateblue;
+    padding: 10px;
+    text-color: black;
+    font-size: 20px;
+    margin: 25px;
 }
+    
+
+
+
+
