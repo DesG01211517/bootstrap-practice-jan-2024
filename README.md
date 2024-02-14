@@ -4,7 +4,7 @@ A place for me to practice and demo the Bootstrap CSS Framework.
 
 ## About
 
-This is a website about...
+This is a website about creating buttons that function and display an action after use.
 
 It contains one page:
 

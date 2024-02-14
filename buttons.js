@@ -1,5 +1,7 @@
 Button1.onclick = function () {
     alert("It Works");
+    
+    
 }
 Button2.onclick = function () {
     alert("It Works");
