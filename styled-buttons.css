@@ -1,7 +1,21 @@
-#button1 {
+/* #Button1 {
     background-color: blue;
     padding: 10px;
     color: white;
-    font-size: 20px;
+    font-size: 20px; */
+
+}#body {
+    background-color: aqua;
+}
+.buttonmagic {
+    margin: 15px;
+    padding: 15;
+    color:cornflowerblue;
+    font-size: medium;
+    
+    
+
+
+
 
 }
